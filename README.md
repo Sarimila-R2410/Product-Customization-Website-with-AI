@@ -1,6 +1,6 @@
 # Product Customization Website with AI
 
-This is a web application that allows users to customize and personalize products using DALEE (AI). The website provides a user-friendly interface for customers to interact with and customize various products according to their preferences. The AI integration adds advanced capabilities to enhance the customization experience.
+This is a web application that allows users to customize and personalize products using DALLE (AI). The website provides a user-friendly interface for customers to interact with and customize various products according to their preferences. The AI integration adds advanced capabilities to enhance the customization experience.
 
 ## Features
 
